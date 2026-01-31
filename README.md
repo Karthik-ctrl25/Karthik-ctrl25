@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋 I'm Karthik
 
-<!--
-**Karthik-ctrl25/Karthik-ctrl25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering student at **CMR University**  
+💻 Learning **C, Java**, Web development and data structures  
+🚀 Interested in software development and building practical, real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Programming:** C, Java  
+- **Core Concepts:** Problem Solving, Digital Electronics  
+- **Tools & Platforms:** Git, GitHub  
+- **Currently Learning:** Web Development, Data Structures & Algorithms 
+
+---
+
+### 📌 Currently Working On
+- **Habit / Activity Tracker** – A web-based project to track daily habits and activities  
+- **DSA Practice Repository** – Solving and documenting problems for consistency and logic building  
+
+---
+
+### 🎯 Goals
+- Improve coding and problem-solving skills  
+- Build well-structured, documented projects  
+- Maintain consistent learning and GitHub activity  
+
+---
+
+### 📫 Contact
+- 📧 Email: **karthikraikar25@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/karthik-raikar  
