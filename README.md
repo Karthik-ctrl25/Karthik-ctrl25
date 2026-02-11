@@ -24,7 +24,13 @@
 - **Daily Focus Timer & Task Log**  
   ⏱️ A productivity-focused web app that helps users focus on one task at a time using a timer and logs completed focus sessions.  
   🔗 Live Demo: https://karthik-ctrl25.github.io/daily-focus-timer/  
-  📁 GitHub Repo: https://github.com/Karthik-ctrl25/daily-focus-timer  
+  📁 GitHub Repo: https://github.com/Karthik-ctrl25/daily-focus-timer
+
+  - **Spotify UI Clone**  
+  🎵 A responsive Spotify Web Player UI Clone built using HTML and CSS.  
+  🔗 Live Demo: https://karthik-ctrl25.github.io/spotify-ui-clone/
+  📁 GitHub Repo: https://github.com/Karthik-ctrl25/spotify-ui-clone
+
 
 - **AI-Based Virtual Clothing Try-On Web Platform** *(In Progress)*  
   👕 A responsive web platform that allows users to visualize clothing on a virtual body model using user-provided images, reducing online shopping confusion and return rates.  
