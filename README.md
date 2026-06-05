@@ -28,11 +28,13 @@
 #### 🔹 Daily Focus Timer & Task Log
 ⏱️ Productivity web app — timer + task logging
 🔗 Live: https://karthik-ctrl25.github.io/daily-focus-timer/
+
 📁 Repo: https://github.com/Karthik-ctrl25/daily-focus-timer
 
 #### 🔹 Spotify UI Clone
 🎵 Responsive Spotify UI — HTML/CSS
 🔗 Live: https://karthik-ctrl25.github.io/spotify-ui-clone/
+
 📁 Repo: https://github.com/Karthik-ctrl25/spotify-ui-clone
 
 ---
