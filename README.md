@@ -1,60 +1,71 @@
 # Hi 👋 I'm Karthik Raikar
 
-🎓 ECE Student @ CMR University, Bengaluru | 2024–2028
-⚡ Exploring VLSI + Software Development
-💻 Java | Python | HTML/CSS | Verilog (Learning)
+🎓 B.Tech ECE @ CMR University, Bengaluru | 2024–2028
+💻 Software Engineering Student
+🚀 Building real-world products that solve real problems
 📍 Bengaluru, India
 
 ---
 
-### 🛠 Skills
-- **Hardware/VLSI:** Digital Electronics, Verilog (Learning),
-                     Logisim, EDAPlayground
-- **Software:** Java, HTML, CSS, Python (Basic), C (Basic)
-- **Tools:** Git, GitHub, VS Code, LeetCode
-- **Currently Learning:** DSA in Java, Verilog, Digital Logic
+## 🛠 Tech Stack
+
+**Languages:** Java, JavaScript, HTML, CSS, Python (Basic)
+**Frameworks:** Next.js, React (Basic), Tailwind CSS
+**Backend & DB:** Supabase
+**Tools:** Git, GitHub, VS Code, Vercel, LeetCode
 
 ---
 
-### 📌 Currently Working On
-- ⚡ VLSI — Digital Logic + Verilog basics
-- 💻 DSA — LeetCode practice in Java
-- 🌐 Software projects
+## 🌟 Featured Projects
+
+### 🌍 YatraMate — Trip Expense Tracker
+Splitwise-style web app for Indian group travel
+Built with Next.js, Supabase, Tailwind CSS
+🔗 Live: yatramate-sepia.vercel.app
+📁 github.com/Karthik-ctrl25/yatramate
+
+### ⏱ Daily Focus Timer & Task Log
+Productivity web app with timer and session logging
+Built with HTML, CSS, JavaScript
+🔗 Live: karthik-ctrl25.github.io/daily-focus-timer
+📁 github.com/Karthik-ctrl25/daily-focus-timer
+
+### 🎵 Spotify UI Clone
+Responsive Spotify Web Player UI
+Built with HTML, CSS
+🔗 Live: karthik-ctrl25.github.io/spotify-ui-clone
+📁 github.com/Karthik-ctrl25/spotify-ui-clone
 
 ---
 
-### 🚀 Projects
+## 🏆 Achievements
 
-#### 🔹 Daily Focus Timer & Task Log
-⏱️ Productivity web app — timer + task logging
-🔗 Live: https://karthik-ctrl25.github.io/daily-focus-timer/
-
-📁 Repo: https://github.com/Karthik-ctrl25/daily-focus-timer
-
-#### 🔹 Spotify UI Clone
-🎵 Responsive Spotify UI — HTML/CSS
-🔗 Live: https://karthik-ctrl25.github.io/spotify-ui-clone/
-
-📁 Repo: https://github.com/Karthik-ctrl25/spotify-ui-clone
-
----
-
-### 🏆 Achievements
-- 🥇 VYUHATECH 2.0 — 24hr National Hackathon @ CMR (Oct 2025)
+- 🚀 ISRO Bharatiya Antariksh Hackathon 2026
+- 🥇 VYUHATECH 2.0 — 24hr National Hackathon @ CMR
 - 🥇 IOTOPIA 2025 — National Hackathon @ REVA University
 - 📜 IBM SkillsBuild — Getting Started with AI
 - 📜 TroubleShoot Ideathon — HashTag Official
 
 ---
 
-### 🎯 Goals
-- Internship by November 2026
-- 6 VLSI projects by graduation
-- 280+ LeetCode problems solved
-- Placed at Core ECE or IT company by 2028
+## 💡 My Philosophy
+
+I enjoy solving real problems through software.
+I believe the best way to learn is by building
+products that real people actually use.
 
 ---
 
-### 📫 Contact
+## 🎯 2026 Goals
+
+- 🏆 Secure a Software Engineering Internship
+- 💻 Solve 280+ DSA Problems
+- 🚀 Launch one more real-world project
+- 🌟 Build production-ready software
+
+---
+
+## 📫 Contact
+
 - 📧 karthikraikar25@gmail.com
 - 💼 linkedin.com/in/karthik-raikar
