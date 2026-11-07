@@ -44,8 +44,6 @@
 - Includes trip creation, expense logging and settlement.
 - Implemented database triggers, expense summaries and per-person splits.
 
-🔗 [Live Demo](https://yatramate-sepia.vercel.app/)
-
 📁 [GitHub Repository](https://github.com/Karthik-ctrl25/yatramate)
 
 ---
