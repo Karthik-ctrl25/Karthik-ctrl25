@@ -1,71 +1,98 @@
 # Hi 👋 I'm Karthik Raikar
 
-🎓 B.Tech ECE @ CMR University, Bengaluru | 2024–2028
-💻 Software Engineering Student
-🚀 Building real-world products that solve real problems
+🎓 B.Tech Electronics and Communication Engineering @ CMR University, Bengaluru (2024–2028)
+
+💻 Aspiring Software & Embedded Systems Engineer
+
+🚀 Interested in building real-world applications and hardware-software solutions.
+
 📍 Bengaluru, India
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Career Interests
 
-**Languages:** Java, JavaScript, HTML, CSS, Python (Basic)
-**Frameworks:** Next.js, React (Basic), Tailwind CSS
-**Backend & DB:** Supabase
-**Tools:** Git, GitHub, VS Code, Vercel, LeetCode
+- Software Development – Full-Stack & Backend Development
+- Embedded Systems – Embedded Software & Firmware Development
+- Internet of Things (IoT)
+- Hardware-Software Integration
+
+---
+
+## 🛠 Technical Skills
+
+**Programming Languages:** C, Java, JavaScript, TypeScript, Python (Basic)
+
+**Web Development:** HTML, CSS, Tailwind CSS, React, Next.js
+
+**Backend & Database:** Supabase, IndexedDB
+
+**Hardware & Simulation:** Arduino, MATLAB
+
+**Tools & Platforms:** Git, GitHub, VS Code, Vercel
+
+**Core Concepts:** Object-Oriented Programming, Data Structures & Algorithms
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🌍 YatraMate — Trip Expense Tracker
-Splitwise-style web app for Indian group travel
-Built with Next.js, Supabase, Tailwind CSS
-🔗 Live: yatramate-sepia.vercel.app
-📁 github.com/Karthik-ctrl25/yatramate
+### 🌍 YatraMate – Group Travel Expense Management App
 
-### ⏱ Daily Focus Timer & Task Log
-Productivity web app with timer and session logging
-Built with HTML, CSS, JavaScript
-🔗 Live: karthik-ctrl25.github.io/daily-focus-timer
-📁 github.com/Karthik-ctrl25/daily-focus-timer
+- Splitwise-style group travel expense tracker.
+- Built using Next.js, TypeScript and Supabase.
+- Includes trip creation, expense logging and settlement.
+- Implemented database triggers, expense summaries and per-person splits.
 
-### 🎵 Spotify UI Clone
-Responsive Spotify Web Player UI
-Built with HTML, CSS
-🔗 Live: karthik-ctrl25.github.io/spotify-ui-clone
-📁 github.com/Karthik-ctrl25/spotify-ui-clone
+🔗 [Live Demo](https://yatramate-sepia.vercel.app/)
+
+📁 [GitHub Repository](https://github.com/Karthik-ctrl25/yatramate)
 
 ---
 
-## 🏆 Achievements
+### 📱 AttendX Premium – Smart Attendance & Timetable Platform
 
-- 🚀 ISRO Bharatiya Antariksh Hackathon 2026
-- 🥇 VYUHATECH 2.0 — 24hr National Hackathon @ CMR
-- 🥇 IOTOPIA 2025 — National Hackathon @ REVA University
-- 📜 IBM SkillsBuild — Getting Started with AI
-- 📜 TroubleShoot Ideathon — HashTag Official
+- Attendance and timetable management platform for CMR University students.
+- Developed using React, TypeScript and Supabase.
+- Includes attendance tracking, timetable management and analytics.
+- Implemented OCR-based attendance and timetable extraction with editable previews and validation.
+
+📁 [GitHub Profile](https://github.com/Karthik-ctrl25)
+
+---
+
+### 🌐 IoT-Based Real-Time Crowd Management System
+
+- ECE project focused on real-time crowd monitoring.
+- Designed to support crowd awareness and management.
+- Explores the integration of electronics, sensors and software.
+
+---
+
+## 🏆 Achievements & Activities
+
+- ISRO Bharatiya Antariksh Hackathon 2026
+- VYUHATECH 2.0 – 24-Hour National Level Hackathon
+- IOTOPIA 2025 – REVA University
+- TroubleShoot Ideathon – HashTag Official
+- Techutsav – CMR University
 
 ---
 
 ## 💡 My Philosophy
 
-I enjoy solving real problems through software.
-I believe the best way to learn is by building
-products that real people actually use.
+I enjoy solving practical problems through programming
+and exploring how software interacts with hardware.
+
+I believe in learning by building, experimenting,
+debugging and continuously improving.
 
 ---
 
-## 🎯 2026 Goals
+## 📫 Connect With Me
 
-- 🏆 Secure a Software Engineering Internship
-- 💻 Solve 280+ DSA Problems
-- 🚀 Launch one more real-world project
-- 🌟 Build production-ready software
+📧 karthikraikar25@gmail.com
 
----
+💼 [LinkedIn](https://www.linkedin.com/in/karthik-raikar/)
 
-## 📫 Contact
-
-- 📧 karthikraikar25@gmail.com
-- 💼 linkedin.com/in/karthik-raikar
+🐙 [GitHub](https://github.com/Karthik-ctrl25)
